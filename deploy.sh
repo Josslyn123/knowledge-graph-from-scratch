@@ -7,8 +7,8 @@ echo "=========================================="
 echo "知识图谱项目部署"
 echo "=========================================="
 
-# 配置
-PROJECT_DIR="/home/admin/kg_project"
+# 配置（请根据实际情况修改）
+PROJECT_DIR="${PROJECT_DIR:-$HOME/kg_project}"
 NEO4J_VERSION="5.15.0"
 
 # 更新系统
