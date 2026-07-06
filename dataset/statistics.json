@@ -1,0 +1,26 @@
+{
+  "dataset_name": "从零构建知识图谱 - 知识图谱数据集",
+  "total_entities": 9335,
+  "total_relations": 26495,
+  "total_triples": 34459,
+  "entity_type_distribution": {
+    "概念": 5090,
+    "人物": 365,
+    "地点": 61,
+    "技术": 2638,
+    "工具": 977,
+    "组织": 204
+  },
+  "relation_type_distribution": {
+    "相关": 26495
+  },
+  "files_generated": [
+    "knowledge_graph_dataset.json - 完整知识图谱数据集",
+    "entities.json/csv - 实体数据集",
+    "relations.json/csv - 关系数据集",
+    "triples.json/csv - 三元组数据集",
+    "triples_train.txt - TransE训练格式三元组",
+    "by_type/ - 按类型分类的数据集",
+    "statistics.json - 统计报告"
+  ]
+}

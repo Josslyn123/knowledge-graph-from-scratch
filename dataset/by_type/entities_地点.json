@@ -1,0 +1,429 @@
+[
+  {
+    "id": "E00018",
+    "name": "北京",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E00198",
+    "name": "长尾",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E00395",
+    "name": "福川",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E00420",
+    "name": "中国",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E00461",
+    "name": "意大利",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E00463",
+    "name": "关联",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E00596",
+    "name": "剑桥",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E00802",
+    "name": "麻省",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E00875",
+    "name": "神圣",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E00882",
+    "name": "山水",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E01089",
+    "name": "深度",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E01722",
+    "name": "美国",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E01931",
+    "name": "维度",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E02092",
+    "name": "上海",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E02093",
+    "name": "上港",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E02096",
+    "name": "日本",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E02097",
+    "name": "浦和",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E02508",
+    "name": "欧拉",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E02547",
+    "name": "广义",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E02990",
+    "name": "中原",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E02991",
+    "name": "定义新",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E03595",
+    "name": "北京市",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E03618",
+    "name": "库及",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E03815",
+    "name": "西班牙",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E03923",
+    "name": "广东",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E04064",
+    "name": "中定",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E04157",
+    "name": "太原",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E04159",
+    "name": "德国",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E04401",
+    "name": "广度",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E04422",
+    "name": "旧版本",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E04451",
+    "name": "日志",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E04678",
+    "name": "武汉",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E04958",
+    "name": "河北",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E04994",
+    "name": "厦门市",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E04998",
+    "name": "厦门",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E05033",
+    "name": "中路",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E05298",
+    "name": "新鲜",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E05535",
+    "name": "新鲜度",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E05951",
+    "name": "城市",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E06235",
+    "name": "长度",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E06379",
+    "name": "入口",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E06405",
+    "name": "多角度",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E06596",
+    "name": "新建",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E06751",
+    "name": "广州市",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E06752",
+    "name": "羊城",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E07093",
+    "name": "莱比锡",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E07457",
+    "name": "欧洲",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E07960",
+    "name": "上市",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E07998",
+    "name": "东西",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E08208",
+    "name": "多黎",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E08209",
+    "name": "波多黎各",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E08217",
+    "name": "延时",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E08268",
+    "name": "嘉宾",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E08271",
+    "name": "加盟",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E08896",
+    "name": "宾州",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E08948",
+    "name": "杭州",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E08949",
+    "name": "深圳",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E08954",
+    "name": "午安",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E09020",
+    "name": "加和",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E09089",
+    "name": "中非",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E09198",
+    "name": "以色列",
+    "type": "地点",
+    "source": "pos_tag",
+    "count": 1
+  }
+]

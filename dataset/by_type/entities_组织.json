@@ -1,0 +1,1430 @@
+[
+  {
+    "id": "E00051",
+    "name": "华章图文信息有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00052",
+    "name": "奥维博世图书发行有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00294",
+    "name": "很多公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00297",
+    "name": "同济大学",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E00711",
+    "name": "清华大学",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E00714",
+    "name": "浙江大学",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E00717",
+    "name": "东南大学",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E00751",
+    "name": "电子科技大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00841",
+    "name": "工大学媒体实验室",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01000",
+    "name": "狗尾草智能科技有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01130",
+    "name": "多伦多大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01214",
+    "name": "例如同花顺公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01321",
+    "name": "山西大学",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E01631",
+    "name": "例如公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01632",
+    "name": "小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01633",
+    "name": "年由万维网联盟",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01666",
+    "name": "该示例描述了一个记录公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01667",
+    "name": "展示了小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01677",
+    "name": "国际化",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E02338",
+    "name": "北京小米科技有限责任公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02342",
+    "name": "中华人民共和国教育部",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E02365",
+    "name": "用百度百科中对清华大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02366",
+    "name": "重点大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02504",
+    "name": "展示了人物和公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02505",
+    "name": "拥有现任公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02506",
+    "name": "产生人物在公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02545",
+    "name": "包含人物和公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02546",
+    "name": "包含公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02671",
+    "name": "针对苹果公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02739",
+    "name": "华为技术有限公司",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E02760",
+    "name": "外两个具有相似名字的公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02761",
+    "name": "欧菲光集团股份有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02762",
+    "name": "如同属于公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02818",
+    "name": "由清华大学知识工程实验室",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02985",
+    "name": "查询了小米公司的母公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03091",
+    "name": "为首的各公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03108",
+    "name": "如果我们想查询小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03165",
+    "name": "识图谱中私营有限责任公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03166",
+    "name": "是有限责任公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03167",
+    "name": "而有限责任公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03168",
+    "name": "那么私营有限责任公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03169",
+    "name": "的实例小米科技有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03170",
+    "name": "当属于公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03190",
+    "name": "已知公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03191",
+    "name": "其作用域是公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03192",
+    "name": "同时已知小米公司的公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03193",
+    "name": "那么可以推理出小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03194",
+    "name": "属于公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03283",
+    "name": "假设头实体小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03564",
+    "name": "斯坦福大学",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E03593",
+    "name": "是一款由斯坦福大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03605",
+    "name": "米科技有限责任公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03606",
+    "name": "小米科技有限责任公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03640",
+    "name": "我们选择多伦多大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03662",
+    "name": "有限责任公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03663",
+    "name": "和股份有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03664",
+    "name": "可以将有限责任公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03665",
+    "name": "分为国有独资公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03666",
+    "name": "其他有限责任公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03667",
+    "name": "可以先确定国有独资公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03679",
+    "name": "独资公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03680",
+    "name": "国有独资公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03685",
+    "name": "类应当被分为国有独资公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03686",
+    "name": "和其他有限责任公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03687",
+    "name": "对于股份有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03688",
+    "name": "和私营公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03704",
+    "name": "已知一个公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03798",
+    "name": "罗马大学",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E03806",
+    "name": "是由罗马大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03811",
+    "name": "英国曼彻斯特大学",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E03832",
+    "name": "是由斯坦福大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03833",
+    "name": "是由英国曼彻斯特大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03834",
+    "name": "款由西班牙马德里技术大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03874",
+    "name": "华盛顿大学",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E03919",
+    "name": "包括由斯坦福大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03920",
+    "name": "由卡耐基梅隆大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03921",
+    "name": "由清华大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03922",
+    "name": "工具以及由华盛顿大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03934",
+    "name": "高新科技股份有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03935",
+    "name": "作为小米科技有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03936",
+    "name": "小米科技有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03937",
+    "name": "力王高新科技股份有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04039",
+    "name": "表示公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04040",
+    "name": "的供应商是公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04044",
+    "name": "交易所",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E04045",
+    "name": "上市公司",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E04059",
+    "name": "条上市公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04060",
+    "name": "包含该公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04075",
+    "name": "上开源的浙江大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04081",
+    "name": "涉及的实体类型为公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04082",
+    "name": "在本项目中公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04098",
+    "name": "的抽取函数是为了抽取公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04099",
+    "name": "构建公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04100",
+    "name": "自动将相关信息存储到公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04102",
+    "name": "上一个步骤完成了公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04103",
+    "name": "计句子中的公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04105",
+    "name": "分别表示公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04122",
+    "name": "仅调换公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04140",
+    "name": "入围公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04141",
+    "name": "持有公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04150",
+    "name": "这里需要预测的是公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04174",
+    "name": "太原重工股份有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04175",
+    "name": "德国铁路有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04176",
+    "name": "是德国铁路有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04177",
+    "name": "商是太原重工股份有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04178",
+    "name": "提及了公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04262",
+    "name": "是清华大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04263",
+    "name": "自然语言处理实验室",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04299",
+    "name": "是由华盛顿大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04335",
+    "name": "同样是由华盛顿大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04338",
+    "name": "上文共",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E04593",
+    "name": "有品信息科技有限公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04598",
+    "name": "以雷军和小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04599",
+    "name": "查找小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04600",
+    "name": "命令为创建雷军与小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04625",
+    "name": "最大化",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E04810",
+    "name": "重定向自小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04820",
+    "name": "中展",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E04831",
+    "name": "展示了与小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04857",
+    "name": "产品研发的移动互联网公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04896",
+    "name": "位于右侧的是科技公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04897",
+    "name": "可以指公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04898",
+    "name": "它唯一映射到了公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04899",
+    "name": "便是小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04908",
+    "name": "最终的页面便是小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04909",
+    "name": "这一表述是小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04910",
+    "name": "首先观察一下小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04916",
+    "name": "可以指代小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04917",
+    "name": "会被重定向到小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04918",
+    "name": "它们可以正确打开小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04927",
+    "name": "并映射到实体层的小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04952",
+    "name": "如以下小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04953",
+    "name": "即小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05059",
+    "name": "我们知道小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05161",
+    "name": "科技公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05173",
+    "name": "在小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05200",
+    "name": "实体后缀包含公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05201",
+    "name": "实体后缀包含大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05202",
+    "name": "移动互联网公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05231",
+    "name": "哈工大",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E05250",
+    "name": "圣约翰大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05330",
+    "name": "围绕小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05349",
+    "name": "米粉节实体和小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05374",
+    "name": "京小米科技有限责任公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05405",
+    "name": "沿用小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05570",
+    "name": "美团",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E05588",
+    "name": "该示例以小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05589",
+    "name": "此时检测到小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05597",
+    "name": "中心位置包含两个小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05598",
+    "name": "表示雷军和小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05599",
+    "name": "斌与小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05600",
+    "name": "系被创建到了新的小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05658",
+    "name": "中医药",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E05659",
+    "name": "中科院",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E05726",
+    "name": "包括公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05727",
+    "name": "还会关注该公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05728",
+    "name": "分子由公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05739",
+    "name": "人物隶属于某个公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05740",
+    "name": "公司和公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05741",
+    "name": "公司与公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05774",
+    "name": "争者想更全面了解一个公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05813",
+    "name": "的官网会公布该公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05814",
+    "name": "由此可以抽取包括公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05815",
+    "name": "公司官网公布了该公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05816",
+    "name": "从这里可以抽取出公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05817",
+    "name": "可以抽取到公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05831",
+    "name": "如分子和公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05832",
+    "name": "从数据源中抽取的具体公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05846",
+    "name": "该结构中包含具体公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05847",
+    "name": "分别以公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05848",
+    "name": "判断公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05849",
+    "name": "创建公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05850",
+    "name": "并将属性加入公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05859",
+    "name": "存放了公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05860",
+    "name": "实体结点以及公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05864",
+    "name": "下面以分子和公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05865",
+    "name": "创建分子和公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05866",
+    "name": "中取出分子与公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05919",
+    "name": "统计学",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E05956",
+    "name": "商品信息",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E05977",
+    "name": "就职的公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05978",
+    "name": "复仇者联盟",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06021",
+    "name": "哈尔滨工业大学",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E06060",
+    "name": "例如斯坦福大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06586",
+    "name": "等结点表示公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06708",
+    "name": "构建的可视化公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06854",
+    "name": "上海交通大学",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E07037",
+    "name": "是由意大利比萨大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07114",
+    "name": "由德国莱比锡大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07315",
+    "name": "这里公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07325",
+    "name": "长足发展",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E07458",
+    "name": "爱丁堡大学",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E07590",
+    "name": "可以指小米公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07969",
+    "name": "百度的公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07970",
+    "name": "华为的公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08004",
+    "name": "哪个公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08276",
+    "name": "复联",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E08279",
+    "name": "是复仇者联盟",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08815",
+    "name": "哈工",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E08883",
+    "name": "中国工商银行",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E09200",
+    "name": "牛津大学",
+    "type": "组织",
+    "source": "pos_tag",
+    "count": 1
+  },
+  {
+    "id": "E09251",
+    "name": "毕业于牛津大学",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09308",
+    "name": "这些公司",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09309",
+    "name": "开放知识图谱联盟",
+    "type": "组织",
+    "source": "regex",
+    "count": 1
+  }
+]

@@ -1,0 +1,6841 @@
+[
+  {
+    "id": "E00046",
+    "name": "Knowledge",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00047",
+    "name": "Graph",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00072",
+    "name": "知识图谱工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00073",
+    "name": "知识建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00074",
+    "name": "其他本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00075",
+    "name": "本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00076",
+    "name": "知识抽取工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00122",
+    "name": "其他知识抽取工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00123",
+    "name": "知识存储工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00124",
+    "name": "其他图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00168",
+    "name": "其他工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00169",
+    "name": "实体链接工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00249",
+    "name": "由于技术和工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00250",
+    "name": "数据和工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00251",
+    "name": "相关工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00302",
+    "name": "CCF",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00303",
+    "name": "SIGKG",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00485",
+    "name": "Semantic",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00486",
+    "name": "Network",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00487",
+    "name": "API",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00488",
+    "name": "图结构的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00489",
+    "name": "义关系的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00490",
+    "name": "型的众包知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00574",
+    "name": "Resource",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00575",
+    "name": "Description",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00576",
+    "name": "Framework",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00624",
+    "name": "Berners",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00625",
+    "name": "Information",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00626",
+    "name": "Management",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00627",
+    "name": "Linked",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00628",
+    "name": "System",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00675",
+    "name": "Meta",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00676",
+    "name": "Data",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00677",
+    "name": "Open",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00678",
+    "name": "如何利用知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00726",
+    "name": "化的语义知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00727",
+    "name": "义网络的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00766",
+    "name": "典知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00767",
+    "name": "语言词典知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00816",
+    "name": "Douglas",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00817",
+    "name": "Lenat",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00818",
+    "name": "Mind",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00819",
+    "name": "Common",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00820",
+    "name": "Sense",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00821",
+    "name": "大的常识知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00822",
+    "name": "样庞大的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00823",
+    "name": "动添加到知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00824",
+    "name": "的多语境知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00825",
+    "name": "上最大的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00845",
+    "name": "是指数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00846",
+    "name": "出的链接数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00847",
+    "name": "开放链接数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00862",
+    "name": "HTTP",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00901",
+    "name": "Basketball",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00902",
+    "name": "Player",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00903",
+    "name": "则来源于数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00950",
+    "name": "Schema.org",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00951",
+    "name": "Markup",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00952",
+    "name": "The",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00953",
+    "name": "Eight",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00954",
+    "name": "Hundred",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00993",
+    "name": "Hu",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E00994",
+    "name": "Guan",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01061",
+    "name": "Waston",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01062",
+    "name": "Project",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01063",
+    "name": "Debater",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01064",
+    "name": "和传统数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01065",
+    "name": "随着硬软件",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01084",
+    "name": "TPU",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01114",
+    "name": "Geoffrey",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01115",
+    "name": "Hinton",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01116",
+    "name": "Artificial",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01117",
+    "name": "General",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01118",
+    "name": "Intelligence",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01191",
+    "name": "Phacts",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01192",
+    "name": "建了一个发现平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01193",
+    "name": "金融信息数据平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01194",
+    "name": "的整合和信息平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01265",
+    "name": "如关系型数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01266",
+    "name": "务任务类知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01267",
+    "name": "和大规模语料库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01268",
+    "name": "建立一个知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01269",
+    "name": "统型关系数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01309",
+    "name": "而传统型数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01310",
+    "name": "关系型数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01311",
+    "name": "没有图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01376",
+    "name": "Wisdom",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01377",
+    "name": "Hierarchy",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01378",
+    "name": "Dikw",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01379",
+    "name": "Communication",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01380",
+    "name": "Science",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01381",
+    "name": "Support",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01382",
+    "name": "Systems",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01383",
+    "name": "Towards",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01384",
+    "name": "Integrated",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01385",
+    "name": "New",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01386",
+    "name": "Atomic",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01387",
+    "name": "Theory",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01388",
+    "name": "Graphical",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01389",
+    "name": "Representation",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01390",
+    "name": "Binary",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01391",
+    "name": "Quantics",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01392",
+    "name": "American",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01393",
+    "name": "Conversational",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01394",
+    "name": "Speech",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01395",
+    "name": "Recognition",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01396",
+    "name": "Technical",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01397",
+    "name": "Report",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01398",
+    "name": "MSR",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01399",
+    "name": "Delving",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01400",
+    "name": "Deep",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01401",
+    "name": "Surpassing",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01402",
+    "name": "Level",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01403",
+    "name": "Performance",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01404",
+    "name": "Classification",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01595",
+    "name": "Extensible",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01596",
+    "name": "Language",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01659",
+    "name": "Lei",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01660",
+    "name": "Jun",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01661",
+    "name": "提供了独立于软件",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01684",
+    "name": "Internationalized",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01685",
+    "name": "以允许软件",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01716",
+    "name": "Lin",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01717",
+    "name": "Bin",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01760",
+    "name": "Lite",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01761",
+    "name": "DL",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01762",
+    "name": "Full",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01814",
+    "name": "立的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E01815",
+    "name": "为知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02011",
+    "name": "别是关系数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02012",
+    "name": "种将关系数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02048",
+    "name": "Zhishi.me",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02049",
+    "name": "是将关系数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02163",
+    "name": "备的实体词典库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02178",
+    "name": "Guillaume",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02179",
+    "name": "Lample",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02180",
+    "name": "Word",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02181",
+    "name": "Embedding",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02203",
+    "name": "然后对规则库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02228",
+    "name": "去匹配语料库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02229",
+    "name": "强特征去语料库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02230",
+    "name": "一个小的种子库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02231",
+    "name": "用已有的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02232",
+    "name": "从知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02288",
+    "name": "文本或者知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02321",
+    "name": "映射到知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02322",
+    "name": "构建好的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02323",
+    "name": "但由于知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02324",
+    "name": "可能对应知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02325",
+    "name": "多个知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02360",
+    "name": "Tsinghua",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02361",
+    "name": "University",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02396",
+    "name": "Vector",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02397",
+    "name": "Space",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02398",
+    "name": "Model",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02427",
+    "name": "Association",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02428",
+    "name": "Rule",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02429",
+    "name": "掘是挖掘知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02430",
+    "name": "先需要从知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02445",
+    "name": "是利用知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02461",
+    "name": "储在相应数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02462",
+    "name": "分为关系数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02492",
+    "name": "属性关系数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02513",
+    "name": "即利用图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02514",
+    "name": "义查询的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02515",
+    "name": "面向图的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02516",
+    "name": "分别从图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02517",
+    "name": "和常用图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02559",
+    "name": "常用的图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02560",
+    "name": "开源的图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02561",
+    "name": "的高性能数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02562",
+    "name": "具有成熟数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02563",
+    "name": "个多模型数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02564",
+    "name": "兼具图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02603",
+    "name": "以及文档数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02604",
+    "name": "纯文档型数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02605",
+    "name": "图形混合数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02606",
+    "name": "于其他图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02607",
+    "name": "质量的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02716",
+    "name": "合到一个数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02717",
+    "name": "需要根据知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02785",
+    "name": "数据融合工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02786",
+    "name": "动化本体匹配工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02787",
+    "name": "将知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02806",
+    "name": "Active",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02807",
+    "name": "Learning",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02829",
+    "name": "存储在图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02830",
+    "name": "和查询的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02831",
+    "name": "在图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02832",
+    "name": "系允许将数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02833",
+    "name": "而在图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02834",
+    "name": "他种类的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02835",
+    "name": "询语言对数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02836",
+    "name": "言用于对数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02896",
+    "name": "Protocol",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02897",
+    "name": "Query",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02898",
+    "name": "图谱的图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02899",
+    "name": "还有一些工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02900",
+    "name": "待查询的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02928",
+    "name": "统的关系数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02929",
+    "name": "种声明式数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02930",
+    "name": "许对关系数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02931",
+    "name": "图形数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02932",
+    "name": "准化的图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02968",
+    "name": "SAP",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02969",
+    "name": "HANA",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02970",
+    "name": "ORDER",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02971",
+    "name": "BY",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02972",
+    "name": "程序中图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02973",
+    "name": "等数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02974",
+    "name": "询了关系数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02975",
+    "name": "学习的图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E02976",
+    "name": "快速对图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03006",
+    "name": "Apache",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03007",
+    "name": "年开发的跨平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03008",
+    "name": "都会对图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03009",
+    "name": "对图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03010",
+    "name": "从图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03011",
+    "name": "达到对图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03012",
+    "name": "当作实时数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03013",
+    "name": "用在不同数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03014",
+    "name": "类的经典数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03015",
+    "name": "传统的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03016",
+    "name": "人员掌握数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03017",
+    "name": "查询语言和软件",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03018",
+    "name": "宿主语言及其工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03051",
+    "name": "脚本来对数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03052",
+    "name": "量结构化数据平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03215",
+    "name": "Path",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03216",
+    "name": "Ranking",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03217",
+    "name": "Algorithm",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03289",
+    "name": "专注为图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03345",
+    "name": "Is",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03346",
+    "name": "Frontier",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03347",
+    "name": "Terminological",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03348",
+    "name": "Logics",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03349",
+    "name": "Modal",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03350",
+    "name": "Operators",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03351",
+    "name": "Ontological",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03352",
+    "name": "Art",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03353",
+    "name": "Engineering",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03354",
+    "name": "Development",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03355",
+    "name": "Neural",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03356",
+    "name": "Architectures",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03357",
+    "name": "Named",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03358",
+    "name": "Linking",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03359",
+    "name": "Base",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03360",
+    "name": "IEEE",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03361",
+    "name": "Transactions",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03424",
+    "name": "SIAM",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03425",
+    "name": "Conf",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03426",
+    "name": "Mining",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03427",
+    "name": "PA",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03428",
+    "name": "So",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03429",
+    "name": "We",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03430",
+    "name": "Need",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03431",
+    "name": "Something",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03432",
+    "name": "Else",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03433",
+    "name": "Philosophical",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03434",
+    "name": "Studies",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03435",
+    "name": "Hruschka",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03436",
+    "name": "Jr",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03437",
+    "name": "Ending",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03438",
+    "name": "Menlo",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03439",
+    "name": "Park",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03440",
+    "name": "Relational",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03441",
+    "name": "Retrieval",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03442",
+    "name": "Using",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03443",
+    "name": "Constrained",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03444",
+    "name": "Random",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03445",
+    "name": "Walks",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03446",
+    "name": "Machine",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03447",
+    "name": "Embeddings",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03448",
+    "name": "Modeling",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03449",
+    "name": "Multi",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03450",
+    "name": "Processing",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03451",
+    "name": "Red",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03452",
+    "name": "Hook",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03453",
+    "name": "Curran",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03454",
+    "name": "Associates",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03455",
+    "name": "Inc",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03456",
+    "name": "Relation",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03457",
+    "name": "Completion",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03458",
+    "name": "Creating",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03459",
+    "name": "Your",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03460",
+    "name": "First",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03461",
+    "name": "Stanford",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03476",
+    "name": "中需要用到的工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03514",
+    "name": "TopBraid",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03515",
+    "name": "Composer",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03516",
+    "name": "Turkey",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03517",
+    "name": "真实的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03518",
+    "name": "提高知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03519",
+    "name": "地存储在数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03520",
+    "name": "解整个知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03521",
+    "name": "利用知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03522",
+    "name": "适的知识建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03523",
+    "name": "手动知识建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03524",
+    "name": "建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03525",
+    "name": "识建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03526",
+    "name": "流的知识建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03527",
+    "name": "选择本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03528",
+    "name": "种本体构建工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03585",
+    "name": "文的本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03586",
+    "name": "迎的本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03612",
+    "name": "当我们打开软件",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03631",
+    "name": "Direct",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03632",
+    "name": "Imports",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03633",
+    "name": "以重用的本体库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03634",
+    "name": "本体库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03635",
+    "name": "有的企业本体库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03745",
+    "name": "秀的本体构建软件",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03746",
+    "name": "见的本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03747",
+    "name": "泛的本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03748",
+    "name": "优秀本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03749",
+    "name": "每种本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03750",
+    "name": "的图数据库平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03751",
+    "name": "体构建工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03766",
+    "name": "用作位于知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03767",
+    "name": "了丰富的集成工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03768",
+    "name": "使用可跨平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03769",
+    "name": "包括本体映射工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03787",
+    "name": "Collaboration",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03788",
+    "name": "Server",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03789",
+    "name": "级的本体编辑工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03790",
+    "name": "用和本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03791",
+    "name": "务器端的管理工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03802",
+    "name": "模和管理工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03826",
+    "name": "布式本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03827",
+    "name": "构建工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03828",
+    "name": "体开发的独立工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03829",
+    "name": "一款本体工程平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03849",
+    "name": "DERI",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03850",
+    "name": "存在关系数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03851",
+    "name": "多种本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03852",
+    "name": "的本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03853",
+    "name": "体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03863",
+    "name": "使用本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03864",
+    "name": "也对本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03865",
+    "name": "区的本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03866",
+    "name": "而不是不断对工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03867",
+    "name": "到的本体建模工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03896",
+    "name": "Construction",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03897",
+    "name": "介绍知识抽取工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03898",
+    "name": "域的关系抽取工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03899",
+    "name": "到自身知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03900",
+    "name": "自动化的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03928",
+    "name": "式存储到数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03939",
+    "name": "现有知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03940",
+    "name": "更新知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03960",
+    "name": "从已有知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E03961",
+    "name": "有在知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04005",
+    "name": "关系存储数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04019",
+    "name": "Standford",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04020",
+    "name": "项目创建数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04021",
+    "name": "示创建的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04022",
+    "name": "表示数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04023",
+    "name": "数据导入数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04024",
+    "name": "从数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04049",
+    "name": "所的信息披露平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04068",
+    "name": "CoreNLP",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04069",
+    "name": "但原始工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04132",
+    "name": "Majority",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04133",
+    "name": "Vote",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04134",
+    "name": "候选对在知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04135",
+    "name": "条规则和知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04168",
+    "name": "几种知识抽取工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04169",
+    "name": "结构化数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04202",
+    "name": "Subsystem",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04203",
+    "name": "Component",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04204",
+    "name": "Integrator",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04205",
+    "name": "Coupled",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04206",
+    "name": "Pattern",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04207",
+    "name": "Learner",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04208",
+    "name": "SEAL",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04209",
+    "name": "Morphological",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04210",
+    "name": "Classifier",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04211",
+    "name": "充已有的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04212",
+    "name": "已存储在数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04246",
+    "name": "Bill",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04247",
+    "name": "Gates",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04248",
+    "name": "网络关系抽取工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04249",
+    "name": "下面介绍该工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04285",
+    "name": "Position",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04286",
+    "name": "Bidirection",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04320",
+    "name": "Supervised",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04321",
+    "name": "Pass",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04322",
+    "name": "Extractor",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04323",
+    "name": "Based",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04324",
+    "name": "Assessor",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04325",
+    "name": "并存储到数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04326",
+    "name": "据构建的字典库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04340",
+    "name": "Logistic",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04341",
+    "name": "Regression",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04342",
+    "name": "种知识抽取工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04343",
+    "name": "这些知识抽取工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04359",
+    "name": "要围绕图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04360",
+    "name": "储的工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04361",
+    "name": "的关系型数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04362",
+    "name": "的各类别数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04363",
+    "name": "他类型的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04364",
+    "name": "不同类别数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04404",
+    "name": "期稳居图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04405",
+    "name": "的原生图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04406",
+    "name": "持在常规硬件平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04434",
+    "name": "Mac",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04435",
+    "name": "OS",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04436",
+    "name": "旧版本的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04437",
+    "name": "程语言的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04438",
+    "name": "持大部分主流平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04439",
+    "name": "针对各个平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04440",
+    "name": "的官方镜像库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04471",
+    "name": "LOAD",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04472",
+    "name": "CSV",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04473",
+    "name": "Starting",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04474",
+    "name": "先激活了数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04475",
+    "name": "如何将数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04476",
+    "name": "使用已有数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04488",
+    "name": "REST",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04489",
+    "name": "外部接入数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04490",
+    "name": "提供后台数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04491",
+    "name": "口以支持数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04492",
+    "name": "尤其是数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04493",
+    "name": "这对于数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04503",
+    "name": "于已有的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04504",
+    "name": "将已有的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04523",
+    "name": "CONTAINER",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04524",
+    "name": "PORT",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04535",
+    "name": "显示当前数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04536",
+    "name": "例中为数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04537",
+    "name": "可以进行数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04538",
+    "name": "建立数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04565",
+    "name": "Property",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04581",
+    "name": "左侧的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04595",
+    "name": "发现左侧数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04617",
+    "name": "Cosmos",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04618",
+    "name": "本质是对数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04619",
+    "name": "属于云平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04646",
+    "name": "型的开源数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04647",
+    "name": "将应用和数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04648",
+    "name": "对象关系数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04649",
+    "name": "分布式图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04650",
+    "name": "成了众多开源工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04667",
+    "name": "Spark",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04668",
+    "name": "GraphX",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04669",
+    "name": "Arcade",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04670",
+    "name": "Analytics",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04671",
+    "name": "对上述图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04672",
+    "name": "热门图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04718",
+    "name": "Automatic",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04719",
+    "name": "You",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04720",
+    "name": "Always",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04721",
+    "name": "Wanted",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04722",
+    "name": "About",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04723",
+    "name": "Datalog",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04724",
+    "name": "And",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04725",
+    "name": "Dared",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04726",
+    "name": "Extraction",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04727",
+    "name": "Selective",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04728",
+    "name": "Michele",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04729",
+    "name": "Banko",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04730",
+    "name": "Stephen",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04731",
+    "name": "Soderland",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04732",
+    "name": "Matt",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04733",
+    "name": "Broadhead",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04734",
+    "name": "Oren",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04735",
+    "name": "Etzioni",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04736",
+    "name": "International",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04737",
+    "name": "Joint",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04738",
+    "name": "Anthony",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04739",
+    "name": "Fader",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04740",
+    "name": "Identifying",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04741",
+    "name": "Relations",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04742",
+    "name": "Empirical",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04743",
+    "name": "Natural",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04849",
+    "name": "数码产品及软件",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E04875",
+    "name": "产品及软件",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05084",
+    "name": "KeyedVectors",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05085",
+    "name": "WORD",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05086",
+    "name": "ChineseEmbedding.bin",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05109",
+    "name": "KeyedVectors.load",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05110",
+    "name": "KeyedVectors.BaseKeyedVectors",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05180",
+    "name": "由人对知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05243",
+    "name": "Technology",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05244",
+    "name": "Platform",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05245",
+    "name": "分词工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05269",
+    "name": "Text.git",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05307",
+    "name": "存储到数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05337",
+    "name": "行大量的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05354",
+    "name": "Load",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05355",
+    "name": "数据导入工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05385",
+    "name": "Importer.jar",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05386",
+    "name": "批量数据导入工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05400",
+    "name": "Label.label",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05401",
+    "name": "BatchInserters.inserter",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05402",
+    "name": "ImporterTest.generateSampleKG",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05428",
+    "name": "Reader.readLine",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05429",
+    "name": "JSON.parseObject",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05430",
+    "name": "Map.Entry",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05431",
+    "name": "Json.entrySet",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05432",
+    "name": "Key.equals",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05433",
+    "name": "List.add",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05434",
+    "name": "List.size",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05435",
+    "name": "List.toArray",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05438",
+    "name": "Out.write",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05439",
+    "name": "Out.close",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05440",
+    "name": "System.out.println",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05441",
+    "name": "这里采用开源工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05446",
+    "name": "即数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05447",
+    "name": "的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05448",
+    "name": "路径存放数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05486",
+    "name": "数据批量导入工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05487",
+    "name": "法在已有数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05505",
+    "name": "USING",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05506",
+    "name": "PERIODIC",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05507",
+    "name": "WITH",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05508",
+    "name": "HEADERS",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05509",
+    "name": "FROM",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05664",
+    "name": "中科院软件",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05704",
+    "name": "Intellectual",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05756",
+    "name": "要从专业信息平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05757",
+    "name": "采用医药数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05758",
+    "name": "何基于该数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05791",
+    "name": "Jie",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05792",
+    "name": "Fu",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05844",
+    "name": "ExcelFile.sheet",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05853",
+    "name": "GraphDatabase.driver",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05857",
+    "name": "登录图数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05890",
+    "name": "用背后的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05964",
+    "name": "电商平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E05965",
+    "name": "等评论推荐型平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06002",
+    "name": "需要进行跨平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06003",
+    "name": "社交平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06004",
+    "name": "以通过对不同平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06047",
+    "name": "Event",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06080",
+    "name": "Content",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06122",
+    "name": "Convolutional",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06123",
+    "name": "Recurrent",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06124",
+    "name": "Mechanism",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06145",
+    "name": "Distant",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06146",
+    "name": "Supervision",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06147",
+    "name": "在大规模语料库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06197",
+    "name": "Term",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06198",
+    "name": "Frequency",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06199",
+    "name": "Document",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06224",
+    "name": "子构成的语料库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06261",
+    "name": "Topic",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06262",
+    "name": "见的文本挖掘工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06306",
+    "name": "Opinion",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06307",
+    "name": "果较好的开源工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06385",
+    "name": "CRFPP.Tagger",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06411",
+    "name": "借助外部知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06412",
+    "name": "通过外接知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06413",
+    "name": "采用多个分词工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06458",
+    "name": "Networks",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06459",
+    "name": "Sentence",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06460",
+    "name": "Labeled",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06461",
+    "name": "Annual",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06462",
+    "name": "Meeting",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06463",
+    "name": "Their",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06464",
+    "name": "Mentions",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06465",
+    "name": "European",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06466",
+    "name": "Discovery",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06467",
+    "name": "Computational",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06468",
+    "name": "Linguistics",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06469",
+    "name": "Papers",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06470",
+    "name": "Piecewise",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06471",
+    "name": "Long",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06499",
+    "name": "Driven",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06500",
+    "name": "Directed",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06501",
+    "name": "可视化工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06502",
+    "name": "连接的可视化工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06503",
+    "name": "第三方可视化工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06504",
+    "name": "方知识可视化工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06505",
+    "name": "些其他可视化工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06551",
+    "name": "Scalable",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06552",
+    "name": "Graphics",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06573",
+    "name": "据可视化图表库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06601",
+    "name": "视化案例展示平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06612",
+    "name": "PIQ.json",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06636",
+    "name": "重置这五个工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06637",
+    "name": "使用其中三个工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06638",
+    "name": "表示显示工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06639",
+    "name": "表示各个工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06640",
+    "name": "是数据视图工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06641",
+    "name": "是配置项还原工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06642",
+    "name": "保存图片工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06677",
+    "name": "Chart.setOption",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06683",
+    "name": "Neovis.js",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06689",
+    "name": "Popoto.js",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06690",
+    "name": "语言并在数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06702",
+    "name": "Vis.js",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06717",
+    "name": "Sigma.js",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06718",
+    "name": "可视化的渲染工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06719",
+    "name": "在主存储库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06731",
+    "name": "览器的可视化工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06732",
+    "name": "有强大的统计工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06738",
+    "name": "的几种可视化工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06739",
+    "name": "这些工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06740",
+    "name": "面上可视化的工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06755",
+    "name": "见的实体链接工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06779",
+    "name": "干实体的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06780",
+    "name": "出可能与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06781",
+    "name": "个指称与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06782",
+    "name": "务中去除知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06800",
+    "name": "的指称与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06801",
+    "name": "中的词与词义库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06802",
+    "name": "词义库与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06803",
+    "name": "不会具有词义库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06804",
+    "name": "科等百科知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06805",
+    "name": "完成多个数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06806",
+    "name": "而数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06807",
+    "name": "务中不同数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06838",
+    "name": "过滤掉与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06839",
+    "name": "并且在知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06840",
+    "name": "需要使用知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06841",
+    "name": "体指称与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06842",
+    "name": "称对应的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06867",
+    "name": "际上只是知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06868",
+    "name": "而知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06869",
+    "name": "为可以与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06900",
+    "name": "些知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06926",
+    "name": "以及知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06927",
+    "name": "上下文和知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06928",
+    "name": "可以与该知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06965",
+    "name": "行表示的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06992",
+    "name": "抽取了知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06993",
+    "name": "能无法与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06994",
+    "name": "生成任何知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06995",
+    "name": "称无法与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E06996",
+    "name": "法与任何知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07032",
+    "name": "Webapp",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07033",
+    "name": "用的实体链接工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07034",
+    "name": "开源实体链接工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07047",
+    "name": "Spot",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07048",
+    "name": "Repository",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07049",
+    "name": "Article",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07050",
+    "name": "Index",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07051",
+    "name": "Link",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07052",
+    "name": "Shingle",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07053",
+    "name": "Match",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07054",
+    "name": "关数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07055",
+    "name": "存储库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07080",
+    "name": "Jonny",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07081",
+    "name": "再完成与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07104",
+    "name": "识图谱或知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07105",
+    "name": "的实体与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07121",
+    "name": "用基于知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07129",
+    "name": "以使用命令行工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07136",
+    "name": "AGDISTIS.git",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07137",
+    "name": "作为一款开源软件",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07150",
+    "name": "都可以在知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07176",
+    "name": "体链接到知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07177",
+    "name": "富已有的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07178",
+    "name": "链接则是知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07179",
+    "name": "与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07180",
+    "name": "建立知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07211",
+    "name": "实体与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07212",
+    "name": "将成龙与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07230",
+    "name": "都会使用知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07231",
+    "name": "的包管理工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07257",
+    "name": "Question",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07258",
+    "name": "Answering",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07259",
+    "name": "基于知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07260",
+    "name": "体系化的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07261",
+    "name": "基于单源知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07262",
+    "name": "或多源知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07263",
+    "name": "入了百科知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07294",
+    "name": "Database",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07295",
+    "name": "答系统与数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07296",
+    "name": "返回数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07297",
+    "name": "以存放在数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07298",
+    "name": "但数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07299",
+    "name": "预先理解数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07300",
+    "name": "并掌握数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07355",
+    "name": "Dialog",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07356",
+    "name": "YAHOO",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07357",
+    "name": "Answers",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07358",
+    "name": "要掌握数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07359",
+    "name": "其转化为数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07360",
+    "name": "半结构化知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07361",
+    "name": "一或少量数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07417",
+    "name": "Now",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07418",
+    "name": "Track",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07419",
+    "name": "Simple",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07420",
+    "name": "Questions",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07421",
+    "name": "Analysis",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07422",
+    "name": "Phrase",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07423",
+    "name": "Mapping",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07424",
+    "name": "Querying",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07425",
+    "name": "Distributed",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07426",
+    "name": "一个基于知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07455",
+    "name": "已有一些工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07474",
+    "name": "Spotlight",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07475",
+    "name": "Syntax",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07476",
+    "name": "Parsing",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07477",
+    "name": "Syntactic",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07478",
+    "name": "Structure",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07479",
+    "name": "Constituent",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07480",
+    "name": "Dependency",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07481",
+    "name": "常用工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07482",
+    "name": "借助一些开源工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07483",
+    "name": "不同源的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07514",
+    "name": "并非标签库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07515",
+    "name": "取标签库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07516",
+    "name": "外部的同义词库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07517",
+    "name": "或语义库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07518",
+    "name": "多个异构知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07519",
+    "name": "义相似度计算工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07520",
+    "name": "规模文档语料库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07521",
+    "name": "出与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07562",
+    "name": "Explicit",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07563",
+    "name": "Search",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07564",
+    "name": "Markov",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07565",
+    "name": "Logic",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07566",
+    "name": "Perceptron",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07567",
+    "name": "Linear",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07568",
+    "name": "Programming",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07569",
+    "name": "User",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07570",
+    "name": "Feedback",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07571",
+    "name": "常用的工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07572",
+    "name": "和语义分析工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07573",
+    "name": "个短语到知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07574",
+    "name": "和知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07621",
+    "name": "Grammar",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07622",
+    "name": "Combinatory",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07623",
+    "name": "Categorial",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07624",
+    "name": "Lexicalized",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07625",
+    "name": "Tree",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07626",
+    "name": "Adjoint",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07627",
+    "name": "其映射到知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07628",
+    "name": "单知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07658",
+    "name": "Discover",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07659",
+    "name": "多源知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07660",
+    "name": "询根据知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07661",
+    "name": "如果多个知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07662",
+    "name": "要从多个知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07663",
+    "name": "代表工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07664",
+    "name": "提出的多知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07665",
+    "name": "如果多知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07666",
+    "name": "接的多个知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07667",
+    "name": "个知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07668",
+    "name": "一个大的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07669",
+    "name": "构建起多知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07670",
+    "name": "域方面的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07711",
+    "name": "DISTINCT",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07712",
+    "name": "DESC",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07713",
+    "name": "通常结合知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07714",
+    "name": "格式的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07715",
+    "name": "言问句与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07737",
+    "name": "化成一种知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07738",
+    "name": "式转换成知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07739",
+    "name": "更适用于知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07740",
+    "name": "适合查找知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07741",
+    "name": "汇映射到知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07766",
+    "name": "Type.City",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07767",
+    "name": "BornHere.BarackObama",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07768",
+    "name": "点映射到知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07769",
+    "name": "然语言与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07770",
+    "name": "映射为知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07784",
+    "name": "Barack",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07785",
+    "name": "Type.Location",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07786",
+    "name": "组出现在知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07822",
+    "name": "Synchronous",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07823",
+    "name": "Hybrid",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07824",
+    "name": "Pair",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07825",
+    "name": "根据知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07826",
+    "name": "的方式从知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07846",
+    "name": "Guy",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07847",
+    "name": "Griffin",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07848",
+    "name": "使得在知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07849",
+    "name": "就可以在知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07867",
+    "name": "Compound",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07868",
+    "name": "主题词和知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07891",
+    "name": "句理解和知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07903",
+    "name": "从大规模知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07904",
+    "name": "在知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07905",
+    "name": "即将知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07931",
+    "name": "端到端的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07932",
+    "name": "的知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07957",
+    "name": "NUMERIC",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07958",
+    "name": "VALUE",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07982",
+    "name": "主要包括模板库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07983",
+    "name": "模板库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07988",
+    "name": "从而提升模板库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E07996",
+    "name": "式来存放模板库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08003",
+    "name": "将模板库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08006",
+    "name": "读取模板库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08007",
+    "name": "现的是将模板库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08008",
+    "name": "编译后的模板库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08022",
+    "name": "串与外部资源库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08023",
+    "name": "如实体库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08024",
+    "name": "属性库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08025",
+    "name": "关系库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08026",
+    "name": "外部资源库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08027",
+    "name": "匹配到的实体库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08037",
+    "name": "语表述与数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08145",
+    "name": "Generation",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08152",
+    "name": "NER.shtml",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08220",
+    "name": "数据与数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08241",
+    "name": "于和图谱数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08341",
+    "name": "Two",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08342",
+    "name": "Stage",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08343",
+    "name": "Method",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08344",
+    "name": "Iiit",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08345",
+    "name": "Hyderabad",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08346",
+    "name": "Effective",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08347",
+    "name": "Acronym",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08348",
+    "name": "Expansion",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08349",
+    "name": "Instance",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08350",
+    "name": "Selection",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08351",
+    "name": "Population",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08352",
+    "name": "Margin",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08353",
+    "name": "Boundaries",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08354",
+    "name": "Ordinal",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08355",
+    "name": "Classifiers",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08356",
+    "name": "MIT",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08357",
+    "name": "Press",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08358",
+    "name": "Optimizing",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08359",
+    "name": "Engines",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08360",
+    "name": "Clickthrough",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08361",
+    "name": "Scale",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08362",
+    "name": "Trani.Dexter",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08363",
+    "name": "Source",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08364",
+    "name": "Sixth",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08365",
+    "name": "Exploiting",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08442",
+    "name": "San",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08443",
+    "name": "Francisco",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08444",
+    "name": "An",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08445",
+    "name": "Tool",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08446",
+    "name": "Green",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08447",
+    "name": "Presented",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08448",
+    "name": "Western",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08449",
+    "name": "IRE",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08450",
+    "name": "ACM",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08451",
+    "name": "Computer",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08452",
+    "name": "Understanding",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08453",
+    "name": "Lunar",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08454",
+    "name": "Geology",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08455",
+    "name": "National",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08456",
+    "name": "Improving",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08457",
+    "name": "Efficiency",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08458",
+    "name": "Multilingual",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08459",
+    "name": "Online",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08460",
+    "name": "Accurate",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08461",
+    "name": "VLDB",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08462",
+    "name": "Endowment",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08463",
+    "name": "Organizational",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08464",
+    "name": "Intranets",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08465",
+    "name": "Semantics",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08466",
+    "name": "Supporting",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08467",
+    "name": "Users",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08468",
+    "name": "Queries",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08469",
+    "name": "Heterogeneous",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08470",
+    "name": "Graphs",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08471",
+    "name": "Compositional",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08519",
+    "name": "Intelligent",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08520",
+    "name": "Interfaces",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08521",
+    "name": "Held",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08522",
+    "name": "Massachusetts",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08523",
+    "name": "Amherst",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08524",
+    "name": "SIGIR",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08525",
+    "name": "Forum",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08526",
+    "name": "York",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08527",
+    "name": "Patterns",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08571",
+    "name": "World",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08572",
+    "name": "Wide",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08573",
+    "name": "Phrasal",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08574",
+    "name": "Chinese",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08575",
+    "name": "Computing",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08576",
+    "name": "Contextualized",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08577",
+    "name": "Bidirectional",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08578",
+    "name": "Transformers",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08579",
+    "name": "Multiple",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08580",
+    "name": "Bases",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08581",
+    "name": "Thirtieth",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08582",
+    "name": "Biomedical",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08583",
+    "name": "Grammatical",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08584",
+    "name": "Interpretation",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08585",
+    "name": "Interlinked",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08586",
+    "name": "Working",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08587",
+    "name": "Notes",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08632",
+    "name": "Interface",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08633",
+    "name": "Analyzing",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08634",
+    "name": "Datasets",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08635",
+    "name": "Second",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08636",
+    "name": "Research",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08637",
+    "name": "Morgan",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08638",
+    "name": "Kaufmann",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08639",
+    "name": "Publishers",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08640",
+    "name": "Similarity",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08641",
+    "name": "Robust",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08642",
+    "name": "Over",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08643",
+    "name": "Enhanced",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08644",
+    "name": "Matching",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08645",
+    "name": "Approach",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08689",
+    "name": "SIGMOD",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08690",
+    "name": "Against",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08691",
+    "name": "Automated",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08692",
+    "name": "Conferences",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08693",
+    "name": "Steering",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08694",
+    "name": "Committee",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08695",
+    "name": "Pairs",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08696",
+    "name": "Staged",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08697",
+    "name": "Inductive",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08698",
+    "name": "Parsers",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08733",
+    "name": "Lambda",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08734",
+    "name": "Calculus",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08735",
+    "name": "Generative",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08736",
+    "name": "Meaning",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08737",
+    "name": "Sentences",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08738",
+    "name": "Logical",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08739",
+    "name": "Form",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08740",
+    "name": "Structured",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08741",
+    "name": "Probabilistic",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08742",
+    "name": "Inducing",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08743",
+    "name": "Lexical",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08744",
+    "name": "Generalization",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08745",
+    "name": "Induction",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08746",
+    "name": "Statistical",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08747",
+    "name": "Translation",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08748",
+    "name": "Main",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08749",
+    "name": "North",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08750",
+    "name": "Chapter",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08777",
+    "name": "Subgraph",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08778",
+    "name": "Column",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08779",
+    "name": "Combining",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08780",
+    "name": "Global",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08810",
+    "name": "RST",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08825",
+    "name": "主流的分词工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08826",
+    "name": "种分词工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08851",
+    "name": "直在更新工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08861",
+    "name": "HanLP.newSegment",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08901",
+    "name": "参考的宾州树库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08915",
+    "name": "要从增加检索库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08923",
+    "name": "通过同义词库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08940",
+    "name": "Okapi",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08941",
+    "name": "本检索的数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08991",
+    "name": "并将其与知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E08992",
+    "name": "一个知识库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09003",
+    "name": "的实体链接的工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09015",
+    "name": "ChineseEmbedding.tar.gz",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09016",
+    "name": "ChineseEmbedding.txt",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09017",
+    "name": "等主流词向量工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09047",
+    "name": "FastText.load",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09064",
+    "name": "Dialogue",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09065",
+    "name": "用了开源日志库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09075",
+    "name": "Candidate",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09077",
+    "name": "Services",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09085",
+    "name": "Service",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09108",
+    "name": "示例检索库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09110",
+    "name": "入与示例检索库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09123",
+    "name": "Serving",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09134",
+    "name": "问句获取数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09149",
+    "name": "IOLoop.current",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09161",
+    "name": "Explicitly",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09162",
+    "name": "Distinguishing",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09163",
+    "name": "Left",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09164",
+    "name": "Right",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09165",
+    "name": "Technologies",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09166",
+    "name": "Short",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09209",
+    "name": "Harish",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09210",
+    "name": "Natarajan",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09211",
+    "name": "Blue",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09269",
+    "name": "知识图谱开源工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09270",
+    "name": "非常缺乏开源平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09271",
+    "name": "知识图谱构建平台",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09272",
+    "name": "知识图谱应用工具",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09273",
+    "name": "基于关系数据库",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09325",
+    "name": "Jonathan",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09326",
+    "name": "Gordon",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09327",
+    "name": "Benjamin",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09328",
+    "name": "Van",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09329",
+    "name": "Durme",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09330",
+    "name": "Reporting",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09331",
+    "name": "Bias",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  },
+  {
+    "id": "E09332",
+    "name": "Acquisition",
+    "type": "工具",
+    "source": "regex",
+    "count": 1
+  }
+]
