@@ -325,7 +325,19 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 - 《从零构建知识图谱》作者：邵浩、张凯、李方圆、张云柯、戴锡强
 - OpenKG社区
-- 所有贡献者
+
+## 作者
+
+**jcmespc** - [GitHub](https://github.com/43456-awa)
+
+- 邮箱：jwx266147@163.com
+- GitHub：[@43456-awa](https://github.com/43456-awa)
+
+## 联系方式
+
+如有问题，请通过以下方式联系：
+- GitHub Issues：[提交问题](https://github.com/43456-awa/knowledge-graph-from-scratch/issues)
+- 邮箱：jwx266147@163.com
 
 ## 联系方式
 
